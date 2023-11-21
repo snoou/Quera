@@ -13,9 +13,6 @@ public class Main {
                 System.out.println("Payin Barare");
             }
 
-
-
-
     }catch (IOException g ){
         System.out.println("   ");
     }
