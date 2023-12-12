@@ -19,7 +19,7 @@
 |   12    | [کامل بودن یا نبودن ](https://quera.org/problemset/282?tab=description) | [youtube](لینک-ویدیو) | [java](https://github.com/snoou/Quera/blob/main/%DA%A9%D8%A7%D9%85%D9%84%20%D8%A8%D9%88%D8%AF%D9%86%20%DB%8C%D8%A7%20%D9%86%D8%A8%D9%88%D8%AF%D9%86/Main.java)|
 |   13    | [چاپ برعکس  ](https://quera.org/problemset/3405?tab=description) | [youtube](لینک-ویدیو) | [java](https://github.com/snoou/Quera/blob/main/%DA%86%D8%A7%D9%BE%20%D8%A8%D8%B1%D8%B9%DA%A9%D8%B3/Main.java)|
 |   14    | [دو نقطه خط ](https://quera.org/problemset/3414?tab=description) | [youtube](لینک-ویدیو) | [java](https://github.com/snoou/Quera/blob/main/%D8%AF%D9%88%20%D9%86%D9%82%D8%B7%D9%87%20%D8%AE%D8%B7/Main.java)|
-|   15    | شطرنج حرفه ای](https://quera.org/problemset/2636?tab=description) | [youtube](لینک-ویدیو) | [java](https://github.com/snoou/Quera/blob/main/%D8%B4%D8%B7%D8%B1%D9%86%D8%AC%20%D8%AD%D8%B1%D9%81%D9%87%20%D8%A7%DB%8C/Main.java)|
+|   15    |[ شطرنج حرفه ای](https://quera.org/problemset/2636?tab=description) | [youtube](لینک-ویدیو) | [java](https://github.com/snoou/Quera/blob/main/%D8%B4%D8%B7%D8%B1%D9%86%D8%AC%20%D8%AD%D8%B1%D9%81%D9%87%20%D8%A7%DB%8C/Main.java)|
 
 
 
