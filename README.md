@@ -22,7 +22,7 @@
 |   15    |[ شطرنج حرفه ای](https://quera.org/problemset/2636?tab=description) | [youtube](لینک-ویدیو) | [java](https://github.com/snoou/Quera/blob/main/%D8%B4%D8%B7%D8%B1%D9%86%D8%AC%20%D8%AD%D8%B1%D9%81%D9%87%20%D8%A7%DB%8C/Main.java)|
 |   16    |[صدگان خسته](https://quera.org/problemset/3406) | [youtube](لینک-ویدیو) | [java](https://github.com/snoou/Quera/blob/main/%D8%B5%D8%AF%DA%AF%D8%A7%D9%86%20%D8%AE%D8%B3%D8%AA%D9%87/Main.java)|
 
-
+|   17    |[همبرگر منو](https://quera.org/contest/assignments/84122/problems) | [youtube](لینک-ویدیو) | [java](https://github.com/snoou/Quera/tree/main/hamburger)|
 
 
 
